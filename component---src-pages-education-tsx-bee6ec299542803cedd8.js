@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[3],{226:function(e,n,t){"use strict";t.r(n);var a=t(0),l=t.n(a),c=t(224),u=t(223),i=t(113),r=t.n(i);n.default=function(){return l.a.createElement(c.a,null,l.a.createElement(u.a,{title:"Education"}),l.a.createElement(r.a,null,l.a.createElement("title",null,"Education")),l.a.createElement("h1",null,"Education"))}}}]);
+//# sourceMappingURL=component---src-pages-education-tsx-bee6ec299542803cedd8.js.map

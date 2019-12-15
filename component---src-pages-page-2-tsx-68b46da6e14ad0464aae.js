@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[5],{228:function(e,t,a){"use strict";a.r(t);var n=a(84),o=a(0),l=a.n(o),c=a(224),r=a(223);t.default=function(){return l.a.createElement(c.a,null,l.a.createElement(r.a,{title:"Page two"}),l.a.createElement("h1",null,"Hi from the second page"),l.a.createElement("p",null,"Welcome to page 2"),l.a.createElement(n.Link,{to:"/"},"Go back to the homepage"))}}}]);
+//# sourceMappingURL=component---src-pages-page-2-tsx-68b46da6e14ad0464aae.js.map
